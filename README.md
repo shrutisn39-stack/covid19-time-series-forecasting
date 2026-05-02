@@ -26,5 +26,5 @@ To forecast COVID-19 confirmed cases using time-series analysis and compare the 
 (Add graphs/screenshots here)
 
 ## 📁 Files Included
-- Jupyter Notebook (.ipynb)
+- Goggle colab (.ipynb)
 - Dataset (if included)
